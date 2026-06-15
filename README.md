@@ -36,6 +36,25 @@ Analysed customers by age group and gender
 Compared order quantities and profit
 Identified the strongest-performing markets
 
+
+Sales Data for Bike Sales Snapshot
+
+<img width="1827" height="724" alt="image" src="https://github.com/user-attachments/assets/0647bad1-1051-40c9-a7b3-17226ba9ff97" />
+
+Revenue by Year Snapshot
+
+<img width="962" height="345" alt="image" src="https://github.com/user-attachments/assets/5528f2df-afb5-463d-9bef-a5cb8e3a206e" />
+
+Revenue by Country Snapshot 
+
+<img width="1017" height="342" alt="image" src="https://github.com/user-attachments/assets/bb849636-9752-49d5-8d9b-83c5276cd212" />
+
+Revenue by agegroup Snapshot 
+
+<img width="873" height="388" alt="image" src="https://github.com/user-attachments/assets/5ce293dd-b514-4358-8fa0-ae460cbca284" />
+
+
+
 4. Bike Sales Visualisation
 
 Created charts from bike sales data
