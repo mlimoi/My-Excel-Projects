@@ -78,6 +78,12 @@ Used SUMIF and AVERAGEIF
 Created a chart showing the highest earners
 Excel Functions Used
 
+<img width="799" height="836" alt="image" src="https://github.com/user-attachments/assets/4957de90-7a71-4bd2-b297-53919e8de435" />
+
+<img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/632e43df-9dcc-45fe-b017-75d2af2104f3" />
+
+
+
 SUM | AVERAGE | IF | SWITCH | SUMIF | AVERAGEIF | MAX | MIN | MEDIAN | VAR | STDEV | QUARTILE | CORREL | TTEST
 
 About Me
