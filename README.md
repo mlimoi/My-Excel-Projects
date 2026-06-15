@@ -29,11 +29,11 @@ Calculated average commission using AVERAGE
 Created a PivotTable, PivotChart and interactive slicers
 
 
-SALES DATASET SNAPSHOT 
+Sales Dataset Snapshot
 <img width="1382" height="377" alt="image" src="https://github.com/user-attachments/assets/bd338a52-64a9-40a8-9716-c860e74ed201" />
 
 
-PIVOT TABLE SNAPSHOT 
+Pivot Table Snapshot
 
 <img width="761" height="730" alt="image" src="https://github.com/user-attachments/assets/f100e57e-002e-4866-91b3-6972371e8700" />
 
@@ -121,12 +121,12 @@ Created a chart showing the highest earners
 Excel Functions Used
 
 
-SNAPSHOT OF TABLE
+Snapshot of Wage Analysis 
 
 <img width="799" height="836" alt="image" src="https://github.com/user-attachments/assets/4957de90-7a71-4bd2-b297-53919e8de435" />
 
 
-TOP 5 EARNERS SNAPSHOT 
+TOP 5 Earners Snapshot
 
 <img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/632e43df-9dcc-45fe-b017-75d2af2104f3" />
 
