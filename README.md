@@ -28,6 +28,17 @@ Calculated total commission using SUM
 Calculated average commission using AVERAGE
 Created a PivotTable, PivotChart and interactive slicers
 
+
+SALES DATASET SNAPSHOT 
+<img width="1382" height="377" alt="image" src="https://github.com/user-attachments/assets/bd338a52-64a9-40a8-9716-c860e74ed201" />
+
+
+PIVOT TABLE SNAPSHOT 
+
+<img width="761" height="730" alt="image" src="https://github.com/user-attachments/assets/f100e57e-002e-4866-91b3-6972371e8700" />
+
+
+
 3. Bike Sales PivotTable Analysis
 
 Created PivotTables from bike sales data
@@ -87,6 +98,18 @@ Calculated total income by product
 Used IF formulas for reorder decisions
 Calculated percentage sales growth
 Created PivotTables and chart
+
+SALES Data Challenge Snapshot 
+
+<img width="1867" height="627" alt="image" src="https://github.com/user-attachments/assets/aff36eb3-8db1-4840-9ea8-f013f147c7f1" />
+
+Pivot Table 
+
+<img width="618" height="914" alt="image" src="https://github.com/user-attachments/assets/951eea0a-9512-47ae-8535-0654b34e83ac" />
+
+Sales Chart 
+
+<img width="1856" height="919" alt="image" src="https://github.com/user-attachments/assets/428bdaca-8b61-48fb-a140-e6f1fffbb503" />
 
 11. Football Manager Wage Analysis
 
